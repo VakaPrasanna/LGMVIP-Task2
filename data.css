@@ -1,0 +1,29 @@
+body{
+    background-image: linear-gradient(to right,rgb(174, 49, 216),rgb(255, 0, 162));
+}
+.btn{
+    margin-left: 50%;
+    border-radius: 4px;
+    border: 1px solid rgb(242, 164, 29);
+    background-color: orange;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.btn:hover{
+    background-color: rgb(255, 0, 81);
+    border: 1px solid rgb(255, 0, 81);
+}
+h2,h3{
+    margin-left: 35%;
+}
+.card{
+    margin-left: 35%;
+}
+ul{
+    list-style-type:disc;
+    color:black;
+}
+li{
+    font-size:x-large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
